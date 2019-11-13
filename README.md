@@ -1,5 +1,6 @@
 # Epileptic-Seizure-Detection
 Epileptic Seizure Detection using Deep Learning and Adaptive Filters
+
 ##Requirements: -
 
 ###system requirements:
